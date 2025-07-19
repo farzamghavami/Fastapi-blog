@@ -106,8 +106,8 @@ This project is open-source and free to use for educational and development purp
 
 ## 👤 Developer
 
-- **Your Name**
-- [Your GitHub Profile](https://github.com/yourusername)
+- **FarzamGhavami**
+- [Your GitHub Profile](https://github.com/farzamghavami)
 
 ---
 
